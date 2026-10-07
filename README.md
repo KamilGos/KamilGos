@@ -107,36 +107,6 @@ real-world validation**
 
 ## 📄 CV
 
-<details>
-<summary><strong>View my CV</strong></summary>
-
-<br>
-
-### Kamil Gos
-**Senior Autonomous Systems Software Engineer**
-
-**Focus:** Localisation · Perception · Sensor Fusion · C++ · Robotics
-
-**Experience:** 5+ years
-
-**Education:**
-- MSc — Embedded Systems
-- BEng — Automatic Control and Robotics
-- Wrocław University of Science and Technology
-
-**Previous companies:**
-- Stellantis
-- BMW / Luxoft
-- Optimatik
-
-**Core technologies:**
-
-`C++` `Python` `ROS` `ROS2` `SLAM` `VISLAM`
-`LiDAR` `Radar` `Computer Vision` `Linux`
-`Embedded Systems` `Real-Time Systems`
-
-</details>
-
 📎 **[Download full CV](./Kamil-Gos-Resume.pdf)**
 
 ---
