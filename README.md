@@ -1,6 +1,6 @@
 <div align="center">
 
-# KAMIL GOS
+# Hi, I'm Kamil 👋
 
 ### Senior Autonomous Systems Software Engineer
 
@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamilgos/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamil.gos00@gmail.com)
 [![Open to Work](https://img.shields.io/badge/OPEN%20TO-ROBOTICS%20%26%20AUTONOMOUS%20SYSTEMS-2ea44f?style=for-the-badge)](#)
 
